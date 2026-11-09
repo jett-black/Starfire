@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "file": "Starfire-V1.4.zip",
-  "size": 1336611,
-  "notes": "Starfire 1.4\n- The live updater now reads updates straight from the Starfire repo.\n- Desktop shortcut button for Starfire (1.3).\n- Strict Chinese OCR check before every action (1.1).\n- Includes Starfire Lite 2.7, the game / UU Booster launcher and LAUNCH ALL."
+  "version": "1.5",
+  "file": "Starfire-V1.5.zip",
+  "size": 1337284,
+  "notes": "Starfire 1.5\n- Finds the game (C:\\yrzx\\launcher\\yrzx_launcher.exe) and UU Booster (C:\\Program Files (x86)\\Netease\\UU\\uu_launcher.exe) by itself; BROWSE stays as the backup.\n- Live updates from the Starfire repo (1.4), desktop shortcut button (1.3), strict Chinese OCR check (1.1)."
 }
