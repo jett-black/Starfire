@@ -4,8 +4,9 @@ Companion launcher for **The Hidden Ones**: the Starfire Lite Chinese → Englis
 one at a time or all at once.
 
 ## Download
-Get the newest **Starfire-Vx.x.zip** from [Releases](../../releases/latest), unzip it into a permanent folder and run
-`Starfire.exe`. After that, Starfire updates itself: it checks this page when it opens and offers an **UPDATE** button.
+Get the newest zip from the [updates](updates) folder (see `latest.json` for the current version), unzip it into a permanent
+folder and run `Starfire.exe`. After that, Starfire updates itself: it checks `updates/latest.json` when it opens and
+offers an **UPDATE** button.
 
 ## Requirements
 * Windows 10 / 11
