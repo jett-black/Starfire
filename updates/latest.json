@@ -1,6 +1,6 @@
 {
-  "version": "1.6.6",
-  "file": "Starfire-V1.6.6.zip",
-  "size": 1345693,
-  "notes": "Starfire 1.6.6\n- Includes Starfire Lite 2.8: faster, lighter scanning (calmer when the screen is still; repeated checks are remembered).\n- After updating, press INSTALL / UPDATE or START LITE once to put the new Lite in place."
+  "version": "1.6.5",
+  "file": "Starfire-V1.6.5.zip",
+  "size": 1343870,
+  "notes": "Starfire 1.6.5\n- Test update: no changes, only the version number."
 }
