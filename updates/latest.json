@@ -1,6 +1,6 @@
 {
-  "version": "1.6.5",
-  "file": "Starfire-V1.6.5.zip",
-  "size": 1343870,
-  "notes": "Starfire 1.6.5\n- Test update: no changes, only the version number."
+  "version": "1.6.7",
+  "file": "Starfire-V1.6.7.zip",
+  "size": 1730904,
+  "notes": "Starfire 1.6.7\n- Fewer antivirus false alarms: Starfire.exe no longer asks for administrator rights at start, no longer unpacks hidden scripts, and carries normal program information.\n- Keep all Starfire files together in one folder.\n- Includes Starfire Lite 2.8 (faster, lighter scanning): press INSTALL / UPDATE or START LITE once after updating."
 }
