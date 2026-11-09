@@ -1,6 +1,6 @@
 {
-  "version": "1.6.3",
-  "file": "Starfire-V1.6.3.zip",
-  "size": 1343490,
-  "notes": "Starfire 1.6.3\n- Test update: no changes, only the version number."
+  "version": "1.6.4",
+  "file": "Starfire-V1.6.4.zip",
+  "size": 1343884,
+  "notes": "Starfire 1.6.4\n- Starfire closes itself after a launch (LAUNCH ALL, LAUNCH GAME, OPEN UU, START LITE). If something could not be started, the window stays open and shows why."
 }
