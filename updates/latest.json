@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "file": "Starfire-V1.6.1.zip",
-  "size": 1343270,
-  "notes": "Starfire 1.6.1\n- Test update: no changes, only the version number."
+  "version": "1.6.2",
+  "file": "Starfire-V1.6.2.zip",
+  "size": 1343462,
+  "notes": "Starfire 1.6.2\n- Fixes \"update check failed\" (the version file from GitHub's API was decoded wrongly).\n- Falls back to the plain file if that answer can ever not be read."
 }
