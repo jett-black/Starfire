@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
-  "file": "Starfire-V1.7.6.zip",
-  "size": 3246557,
-  "notes": "Starfire 1.7.6\n- Updates now install automatically when found; the overlay is updated (and restarted) automatically too.\n- Overlay 2.9.2: the season menu's chapter titles (\u7b2c\u4e00\u7ae0 / \u7b2c\u4e8c\u7ae0 / \u7b2c\u4e09\u7ae0) are read when not highlighted."
+  "version": "1.7.8",
+  "file": "Starfire-V1.7.8.zip",
+  "size": 3249807,
+  "notes": "Starfire 1.7.8\n- Only one overlay at a time: starting Starfire closes every other Starfire overlay (other versions, test copies, Project Starfire) and their watchdogs.\n- Duel / loading bars: rank badges and stage names get separate labels; all duel ranks are in the dictionary."
 }
