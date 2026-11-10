@@ -1,6 +1,6 @@
 {
-  "version": "1.7.8",
-  "file": "Starfire-V1.7.8.zip",
-  "size": 3249807,
-  "notes": "Starfire 1.7.8\n- Only one overlay at a time: starting Starfire closes every other Starfire overlay (other versions, test copies, Project Starfire) and their watchdogs.\n- Duel / loading bars: rank badges and stage names get separate labels; all duel ranks are in the dictionary."
+  "version": "1.8.2",
+  "file": "Starfire-V1.8.2.zip",
+  "size": 3254330,
+  "notes": "Starfire 1.8.2\n- Tray menu: switch the overlay between the game and the desktop (whole screen or a chosen area); menu cleaned up.\n- Everything updates itself: launcher, mini loader (installs updates in its own window) and the overlay (checks while it runs).\n- Updates always replace the .exe files, so the same update is never offered twice.\n- Test builds are kept apart from this version. Overlay watchdog fix."
 }
