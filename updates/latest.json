@@ -1,6 +1,6 @@
 {
-  "version": "1.6.7",
-  "file": "Starfire-V1.6.7.zip",
-  "size": 1730904,
-  "notes": "Starfire 1.6.7\n- Fewer antivirus false alarms: Starfire.exe no longer asks for administrator rights at start, no longer unpacks hidden scripts, and carries normal program information.\n- Keep all Starfire files together in one folder.\n- Includes Starfire Lite 2.8 (faster, lighter scanning): press INSTALL / UPDATE or START LITE once after updating."
+  "version": "1.6.9",
+  "file": "Starfire-V1.6.9.zip",
+  "size": 1731882,
+  "notes": "Starfire 1.6.9\n- The launcher calls the overlay just \"Starfire\".\n- The VPN is no longer named; it is still found by itself.\n- New \"VPN section\" checkbox: hides / shows the VPN panel and its LAUNCH ALL parts instantly; remembered until changed by hand; hidden by default when no VPN is found.\n- Fixed cut-off header text."
 }
