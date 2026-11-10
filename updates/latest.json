@@ -1,6 +1,6 @@
 {
-  "version": "1.7.3",
-  "file": "Starfire-V1.7.3.zip",
-  "size": 3244367,
-  "notes": "Starfire 1.7.3\n- Overlay 2.9: far fewer \"ghost\" labels (random phrases over shadows, road markings or hair where there is no text).\n- The debug overlay (F7) is switched off."
+  "version": "1.7.4",
+  "file": "Starfire-V1.7.4.zip",
+  "size": 3244905,
+  "notes": "Starfire 1.7.4\n- Fix: an older overlay copy with the same version number (e.g. a test copy with the F7 debug overlay) is now replaced - Starfire compares the files themselves.\n- Overlay 2.9.1 (debug overlay off, fewer ghost labels)."
 }
