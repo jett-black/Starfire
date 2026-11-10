@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "file": "Starfire-V1.7.2.zip",
-  "size": 3242571,
-  "notes": "Starfire 1.7.2\n- Borderless windows with an animated glowing border that flows around the edge; drag the header to move, minimize / close in the top-right corner.\n- New mini loader \"Starfire Overlay.exe\" + MINI LOADER button: checks for updates, then starts only the overlay (installs a waiting update first).\n- New \"Game section\" checkbox; with Game and VPN sections off, LAUNCH ALL becomes LAUNCH STARFIRE."
+  "version": "1.7.3",
+  "file": "Starfire-V1.7.3.zip",
+  "size": 3244367,
+  "notes": "Starfire 1.7.3\n- Overlay 2.9: far fewer \"ghost\" labels (random phrases over shadows, road markings or hair where there is no text).\n- The debug overlay (F7) is switched off."
 }
