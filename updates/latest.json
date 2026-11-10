@@ -1,6 +1,6 @@
 {
-  "version": "1.6.9",
-  "file": "Starfire-V1.6.9.zip",
-  "size": 1731882,
-  "notes": "Starfire 1.6.9\n- The launcher calls the overlay just \"Starfire\".\n- The VPN is no longer named; it is still found by itself.\n- New \"VPN section\" checkbox: hides / shows the VPN panel and its LAUNCH ALL parts instantly; remembered until changed by hand; hidden by default when no VPN is found.\n- Fixed cut-off header text."
+  "version": "1.7.2",
+  "file": "Starfire-V1.7.2.zip",
+  "size": 3242571,
+  "notes": "Starfire 1.7.2\n- Borderless windows with an animated glowing border that flows around the edge; drag the header to move, minimize / close in the top-right corner.\n- New mini loader \"Starfire Overlay.exe\" + MINI LOADER button: checks for updates, then starts only the overlay (installs a waiting update first).\n- New \"Game section\" checkbox; with Game and VPN sections off, LAUNCH ALL becomes LAUNCH STARFIRE."
 }
