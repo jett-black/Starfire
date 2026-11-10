@@ -1,6 +1,6 @@
 {
-  "version": "1.8.2",
-  "file": "Starfire-V1.8.2.zip",
-  "size": 3254330,
-  "notes": "Starfire 1.8.2\n- Tray menu: switch the overlay between the game and the desktop (whole screen or a chosen area); menu cleaned up.\n- Everything updates itself: launcher, mini loader (installs updates in its own window) and the overlay (checks while it runs).\n- Updates always replace the .exe files, so the same update is never offered twice.\n- Test builds are kept apart from this version. Overlay watchdog fix."
+  "version": "1.8.3",
+  "file": "Starfire-V1.8.3.zip",
+  "size": 3255085,
+  "notes": "Starfire 1.8.3\n- Sturdier updates: UPDATE re-reads the latest notice first, every request bypasses GitHub's caches, a mismatched download is retried by itself, and slow downloads are no longer cut off."
 }
