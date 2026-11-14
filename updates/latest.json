@@ -1,6 +1,6 @@
 {
-  "version": "1.8.3",
-  "file": "Starfire-V1.8.3.zip",
-  "size": 3255085,
-  "notes": "Starfire 1.8.3\n- Sturdier updates: UPDATE re-reads the latest notice first, every request bypasses GitHub's caches, a mismatched download is retried by itself, and slow downloads are no longer cut off."
+  "version": "1.9.30",
+  "file": "Starfire-V1.9.30.zip",
+  "size": 3298019,
+  "notes": "Starfire 1.9.30\n- Subtitle mode for story missions: F8 cycles overlay / subtitles / off.\n- Labels stay on their text: fixes for labels offset from their words, also over moving 3D models.\n- Faster and lighter scanning, lower memory use.\n- Menu names by context (Casual / Fun in sparring, Duel Rewards in the ranked lobby), no doubled labels."
 }
